@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FOX NEWS</string>
+    <string name="StoryTitle">StoryTitle</string>
+    <string name="StoryPubEditText">StoryPubEditText</string>
+    <string name="Description">Description</string>
+</resources>
